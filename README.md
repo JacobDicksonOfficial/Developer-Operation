@@ -1,4 +1,4 @@
-[![View PDF](https://img.shields.io/badge/View-DevOps_Assignment_2-red)](./Developer_Operations_Assignment_2.pdf)
+[![View PDF](https://img.shields.io/badge/View-DevOps_Assignment_2-red)](./DevOpsReport.pdf)
 
 ![Page 1](./DevOps/Developer%20Operations%20-%20Assignment%202-01.jpg)
 ![Page 2](./DevOps/Developer%20Operations%20-%20Assignment%202-02.jpg)
